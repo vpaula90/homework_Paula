@@ -1,0 +1,15 @@
+body {
+    background-image: url(http://www.publicdomainpictures.net/pictures/100000/velka/light-clouds.jpg);
+    background-attachment: fixed;
+    padding: 20px;
+}
+img {
+	border-radius: 50%;
+	border: 1px solid black;
+}
+.w3-tangerine {
+	font-family: "Tangerine", serif;
+}
+h1 {
+	font-size: 75px;
+}
