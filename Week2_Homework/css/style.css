@@ -6,6 +6,7 @@ body {
 img {
 	border-radius: 50%;
 	border: 1px solid black;
+    max-height: 150px;
 }
 .w3-tangerine {
 	font-family: "Tangerine", serif;
