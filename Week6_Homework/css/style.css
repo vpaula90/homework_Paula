@@ -1,0 +1,48 @@
+body {
+    background-image: url("../images/shutterstock_397918384.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    font-family: georgia;
+    font-size: 18px;
+}
+
+
+.btn {
+      background-color: grey;
+      color: white;
+
+    }
+
+.btn:hover {
+    background-color: #4CAF50; 
+    color: white;
+}
+
+h3 {
+	text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px;
+	color: white;
+	text-align: center;
+
+}
+    
+h1, p {
+    color: white;
+    text-align: center;
+}
+
+.container {
+	padding: 50px;
+
+}
+
+.container1 {
+border: 10px solid #B22222;
+padding: 8px;
+position: relative;
+z-index: 100;
+padding: 8px;
+background: rgba(34,34,34,0.75);
+}
+	
+
